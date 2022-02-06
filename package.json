@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@algolia/client-search": "^4.12.1",
+    "@types/react": "^17.0.39",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "vitepress": "^0.21.6"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  }
+}
